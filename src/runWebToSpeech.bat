@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass -windowstyle hidden -file .\webToSpeech.ps1
